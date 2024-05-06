@@ -237,10 +237,10 @@ const SearchComponent = () => {
       opIds: opId ? [opId] : [], // Use opId if it's not null, otherwise use an empty array
       sender: {
         status: "Professional",
-        email: "shreyadr09@gmail.com",
+        email: "johndavidarrow@gmail.com",
         phone: "5126269167",
         name: "Age of AI, LLC",
-        airEmail: "shreyadr09@gmail.com",
+        airEmail: "johndavidarrow@gmail.com",
         sendToAirMail: false,
       },
       message,
